@@ -1,0 +1,514 @@
+{
+  "present_data2" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+
+      ],
+      "scale" : 100
+    }
+  ],
+  "present_data10" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 58,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "我们一直关注品质",
+      "font_name" : "黑体",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 32,
+      "font" : 0,
+      "properties" : {
+        "y" : 502,
+        "scale" : 100,
+        "point_x" : 94,
+        "x" : 94,
+        "angle" : 0,
+        "point_y" : 502
+      },
+      "y" : 448,
+      "color_direction" : 0,
+      "height" : 84,
+      "border" : 0,
+      "width" : 574,
+      "border_color" : "#000000",
+      "content" : "我们一直关注品质"
+    }
+  ],
+  "present_data7" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+
+      ],
+      "scale" : 100
+    }
+  ],
+  "present_data15" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 30,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "·关注有料·",
+      "font_name" : "粗黑",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 132,
+      "font" : 1,
+      "properties" : {
+        "y" : 840,
+        "scale" : 100,
+        "point_x" : 222,
+        "x" : 222,
+        "angle" : 0,
+        "point_y" : 840
+      },
+      "y" : 810,
+      "color_direction" : 0,
+      "height" : 38,
+      "border" : 0,
+      "width" : 386,
+      "border_color" : "#000000",
+      "content" : "·关注有料·"
+    }
+  ],
+  "present_data3" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+
+      ],
+      "scale" : 100
+    }
+  ],
+  "present_data13" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 52,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "这里输入您的名称",
+      "font_name" : "粗黑",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 45,
+      "font" : 1,
+      "properties" : {
+        "y" : 382,
+        "scale" : 100,
+        "point_x" : 103,
+        "x" : 103,
+        "angle" : 0,
+        "point_y" : 382
+      },
+      "y" : 330,
+      "color_direction" : 0,
+      "height" : 66,
+      "border" : 0,
+      "width" : 562,
+      "border_color" : "#000000",
+      "content" : "这里输入您的名称"
+    }
+  ],
+  "present_data8" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+        [
+          [
+            322.75,
+            105
+          ],
+          [
+            245.5,
+            182.25
+          ],
+          [
+            322.75,
+            259.5
+          ],
+          [
+            400,
+            182.25
+          ]
+        ],
+        [
+          [
+            365.414001464844,
+            105
+          ],
+          [
+            245.5,
+            139.585998535156
+          ],
+          [
+            280.085998535156,
+            259.5
+          ],
+          [
+            400,
+            224.914001464844
+          ]
+        ],
+        [
+          [
+            280.085998535156,
+            105
+          ],
+          [
+            245.5,
+            224.914001464844
+          ],
+          [
+            365.414001464844,
+            259.5
+          ],
+          [
+            400,
+            139.585998535156
+          ]
+        ],
+        [
+          [
+            245.5,
+            105
+          ],
+          [
+            400,
+            105
+          ],
+          [
+            245.5,
+            259.5
+          ],
+          [
+            400,
+            259.5
+          ]
+        ]
+      ],
+      "scale" : 170
+    }
+  ],
+  "present_data16" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 36,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "微信：manyantv",
+      "font_name" : "黑体",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 124,
+      "font" : 0,
+      "properties" : {
+        "y" : 883,
+        "scale" : 100,
+        "point_x" : 202,
+        "x" : 202,
+        "angle" : 0,
+        "point_y" : 883
+      },
+      "y" : 853,
+      "color_direction" : 0,
+      "height" : 38,
+      "border" : 0,
+      "width" : 401,
+      "border_color" : "#000000",
+      "content" : "微信：manyantv"
+    }
+  ],
+  "present_data4" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+
+      ],
+      "scale" : 100
+    }
+  ],
+  "present_data11" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 58,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "尊贵专享 独一无二",
+      "font_name" : "黑体",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 32,
+      "font" : 0,
+      "properties" : {
+        "y" : 508,
+        "scale" : 100,
+        "point_x" : 66,
+        "x" : 66,
+        "angle" : 0,
+        "point_y" : 508
+      },
+      "y" : 446,
+      "color_direction" : 0,
+      "height" : 84,
+      "border" : 0,
+      "width" : 550,
+      "border_color" : "#000000",
+      "content" : "尊贵专享 独一无二"
+    }
+  ],
+  "present_data9" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 58,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "缔造完美品味",
+      "font_name" : "黑体",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 32,
+      "font" : 0,
+      "properties" : {
+        "y" : 516.74,
+        "scale" : 100,
+        "point_x" : 119.92,
+        "x" : 119.92,
+        "angle" : 0,
+        "point_y" : 516.74
+      },
+      "y" : 456,
+      "color_direction" : 0,
+      "height" : 84,
+      "border" : 0,
+      "width" : 574,
+      "border_color" : "#000000",
+      "content" : "缔造完美品味"
+    }
+  ],
+  "present_data0" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+
+      ],
+      "scale" : 100
+    }
+  ],
+  "present_data14" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 26,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "有型 有范儿 有腔调的潮流品牌",
+      "font_name" : "黑体",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 40,
+      "font" : 0,
+      "properties" : {
+        "y" : 426,
+        "scale" : 100,
+        "point_x" : 134,
+        "x" : 134,
+        "angle" : 0,
+        "point_y" : 426
+      },
+      "y" : 400,
+      "color_direction" : 0,
+      "height" : 32,
+      "border" : 0,
+      "width" : 560,
+      "border_color" : "#000000",
+      "content" : "有型 有范儿 有腔调的潮流品牌"
+    }
+  ],
+  "present_data5" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+
+      ],
+      "scale" : 100
+    }
+  ],
+  "present_data1" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+
+      ],
+      "scale" : 100
+    }
+  ],
+  "present_data12" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 58,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "让您遇见更美的自己",
+      "font_name" : "黑体",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 32,
+      "font" : 0,
+      "properties" : {
+        "y" : 516,
+        "scale" : 100,
+        "point_x" : 50,
+        "x" : 50,
+        "angle" : 0,
+        "point_y" : 516
+      },
+      "y" : 450,
+      "color_direction" : 0,
+      "height" : 84,
+      "border" : 0,
+      "width" : 574,
+      "border_color" : "#000000",
+      "content" : "让您遇见更美的自己"
+    }
+  ],
+  "present_data6" : [
+    {
+      "x" : 320,
+      "angle" : 0,
+      "y" : 504,
+      "point_y" : 504,
+      "point_x" : 320,
+      "mask_data" : [
+
+      ],
+      "scale" : 100
+    }
+  ],
+  "present_data17" : [
+    {
+      "max_length" : 50,
+      "max_font_size" : 30,
+      "color" : [
+        "#ffffff"
+      ],
+      "title" : "｛给我一个信任 还您一个惊喜｝",
+      "font_name" : "黑体",
+      "h5_url_type" : 0,
+      "drop_shadow" : 0,
+      "vertical_align" : 1,
+      "h5_url" : 0,
+      "align" : 3,
+      "h5" : 0,
+      "drop_shadow_color" : "#000000",
+      "h5_edit_text" : 1,
+      "x" : 55,
+      "font" : 0,
+      "properties" : {
+        "y" : 721,
+        "scale" : 100,
+        "point_x" : 97,
+        "x" : 97,
+        "angle" : 0,
+        "point_y" : 721
+      },
+      "y" : 674,
+      "color_direction" : 0,
+      "height" : 76,
+      "border" : 0,
+      "width" : 532,
+      "border_color" : "#000000",
+      "content" : "｛给我一个信任 还您一个惊喜｝"
+    }
+  ]
+}

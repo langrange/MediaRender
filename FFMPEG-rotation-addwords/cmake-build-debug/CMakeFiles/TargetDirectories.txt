@@ -1,0 +1,3 @@
+/home/yfei/Clion_Project/test/FFMPEG-rotation-addwords/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yfei/Clion_Project/test/FFMPEG-rotation-addwords/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yfei/Clion_Project/test/FFMPEG-rotation-addwords/cmake-build-debug/CMakeFiles/ffmpeg-rotation-addwords.dir

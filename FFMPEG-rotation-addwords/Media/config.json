@@ -1,0 +1,526 @@
+{
+  "layers" : [
+    {
+      "source" : 0,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data0.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 1,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data1.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 2,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data2.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 3,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data3.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 4,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data4.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 5,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data5.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 6,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data6.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 7,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data7.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 8,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data8.json",
+      "extra" : [
+
+      ],
+      "type" : 3
+    },
+    {
+      "source" : 9,
+      "animation" : 0,
+      "blend" : 55,
+      "h5" : 0,
+      "data" : "",
+      "extra" : [
+
+      ],
+      "type" : 0
+    },
+    {
+      "source" : 10,
+      "animation" : 0,
+      "blend" : 55,
+      "h5" : 0,
+      "data" : "",
+      "extra" : [
+
+      ],
+      "type" : 0
+    },
+    {
+      "source" : 11,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data9.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    },
+    {
+      "source" : 12,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data10.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    },
+    {
+      "source" : 13,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data11.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    },
+    {
+      "source" : 14,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data12.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    },
+    {
+      "source" : 15,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data13.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    },
+    {
+      "source" : 16,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data14.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    },
+    {
+      "source" : 17,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data15.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    },
+    {
+      "source" : 18,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data16.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    },
+    {
+      "source" : 19,
+      "animation" : 1,
+      "blend" : 0,
+      "h5" : 0,
+      "data" : "data17.json",
+      "extra" : [
+
+      ],
+      "type" : 4
+    }
+  ],
+  "height" : 1008,
+  "present_data_file" : "present_data.json",
+  "edit_file":"edit_file.json",
+  "h5" : 1,
+  "width" : 640,
+  "sources" : [
+    {
+      "id" : "e_0",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data0",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 2,
+      "h5_edit_text" : 1,
+      "decoration" : "1.jpg",
+      "duration" : 63,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_1",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data1",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 3,
+      "h5_edit_text" : 1,
+      "decoration" : "2.jpg",
+      "duration" : 65,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_2",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data2",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 6,
+      "h5_edit_text" : 1,
+      "decoration" : "3.jpg",
+      "duration" : 64,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_3",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data3",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 7,
+      "h5_edit_text" : 1,
+      "decoration" : "4.jpg",
+      "duration" : 67,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_4",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data4",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 8,
+      "h5_edit_text" : 1,
+      "decoration" : "5.jpg",
+      "duration" : 61,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_5",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data5",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 9,
+      "h5_edit_text" : 1,
+      "decoration" : "6.jpg",
+      "duration" : 66,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_6",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data6",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 11,
+      "h5_edit_text" : 1,
+      "decoration" : "7.jpg",
+      "duration" : 62,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_7",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data7",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 12,
+      "h5_edit_text" : 1,
+      "decoration" : "8.jpg",
+      "duration" : 67,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_8",
+      "media_type" : 0,
+      "type" : 3,
+      "present_data" : "present_data8",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 13,
+      "h5_edit_text" : 1,
+      "decoration" : "9.jpg",
+      "duration" : 78,
+      "name" : "pic",
+      "h5" : 0
+    },
+    {
+      "id" : "e_9",
+      "media_type" : 0,
+      "type" : 0,
+      "present_data" : "",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 0,
+      "h5_edit_text" : 1,
+      "decoration" : "",
+      "duration" : 0,
+      "name" : "13574432.mp4",
+      "h5" : 0
+    },
+    {
+      "id" : "e_9",
+      "media_type" : 0,
+      "type" : 0,
+      "present_data" : "",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 0,
+      "h5_edit_text" : 1,
+      "decoration" : "",
+      "duration" : 0,
+      "name" : "102446702.mp4",
+      "h5" : 0
+    },
+    {
+      "id" : "e_9",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data9",
+"edit_data":"edit_data9",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 1,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration1.png",
+      "duration" : 64,
+      "name" : "text",
+      "h5" : 0
+    },
+    {
+      "id" : "e_10",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data10",
+"edit_data":"edit_data10",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 4,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration4.png",
+      "duration" : 64,
+      "name" : "text",
+      "h5" : 0
+    },
+    {
+      "id" : "e_11",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data11",
+"edit_data":"edit_data11",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 5,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration5.png",
+      "duration" : 64,
+      "name" : "text",
+      "h5" : 0
+    },
+    {
+      "id" : "e_12",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data12",
+"edit_data":"edit_data12",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 10,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration10.png",
+      "duration" : 63,
+      "name" : "text",
+      "h5" : 0
+    },
+    {
+      "id" : "e_13",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data13",
+      "edit_data":"edit_data13",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 13,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration13.png",
+      "duration" : 78,
+      "name" : "text",
+      "h5" : 0
+    },
+    {
+      "id" : "e_14",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data14",
+"edit_data":"edit_data14",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 13,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration13.png",
+      "duration" : 78,
+      "name" : "text",
+      "h5" : 0
+    },
+    {
+      "id" : "e_15",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data15",
+"edit_data":"edit_data15",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 13,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration13.png",
+      "duration" : 78,
+      "name" : "text",
+      "h5" : 0
+    },
+    {
+      "id" : "e_16",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data16",
+"edit_data":"edit_data16",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 13,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration13.png",
+      "duration" : 78,
+      "name" : "text",
+      "h5" : 0
+    },
+    {
+      "id" : "e_17",
+      "media_type" : 0,
+      "type" : 4,
+      "present_data" : "present_data17",
+"edit_data":"edit_data17",
+      "h5_url" : 0,
+      "h5_url_type" : 0,
+      "group" : 13,
+      "h5_edit_text" : 1,
+      "decoration" : "decoration13.png",
+      "duration" : 78,
+      "name" : "text",
+      "h5" : 0
+    }
+  ],
+  "duration" : 881,
+  "music" : "music.mp3",
+  "info" : {
+    "created" : "2016-11-16 13:58:16",
+    "version" : "2016-11-01.14.06"
+  }
+}

@@ -1,0 +1,4 @@
+{"version":"1.0","ae":"RENDER","name":"naxienian","logoSize":"150*69" ,"resolution":"720*1280","duration":17000,"cost":1000,"type":"normal","materials":[{"type":"text","source":"TEXT_1","font_name":"MSYH.ttc","font_size":56,"color":"#00F0F0","length":200,"min":1,"max":22,"edit_ref":"TEXT_1.png","replace":"激情青春阳光活泼奋发向上齐心协力力争第一","axis":1000},{"type":"image","source":"IMAGE_1","width":720,"height":1280,"edit_ref":"IMAGE_1.png","axis":5000},{"type":"image","source":"IMAGE_2","width": 720,"height":1280,"edit_ref":"IMAGE_2.png","axis":5000},{"type":"image","source":"IMAGE_3","width":720,"height":1280,"edit_ref":"IMAGE_3.png","axis":5000},{"type":"text","source":"TEXT_2","font_name":"MSYH.ttc","font_size":56,"color":"#00F0F0","length":200,"min":1,"max":33,"edit_ref":"TEXT_2.png","replace":"每一次分离都是为了久别重逢珍重前途似锦发家致富","axis":1000},{"type":"image","source":"IMAGE_4","width":720,"height":1280,"edit_ref":"IMAGE_4.png","axis":5000}]}
+
+
+
